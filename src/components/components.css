@@ -1,0 +1,26 @@
+*
+{
+
+font-family :"Arial";
+
+}
+
+
+
+body 
+{
+
+
+	background-color: red;
+	text-align: center;;
+
+}
+
+ fieldset
+{
+	background-color : aliceblue;
+	width: 200px;
+	text-align: left;
+	border-radius: 10px;
+	border: 0px;
+}
